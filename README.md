@@ -15,7 +15,7 @@ La suite de pruebas automatiza la verificación de varias funcionalidades de la 
 
 1. Clona el repositorio a tu máquina local:
     
-    git clone https://github.com/tu_usuario/proyecto-automatizacion-saucedemo.git
+    git clone https://github.com/mariajosesnchz/SauceDemoAutomation-Cypress-Cucumber.git
     
 
 2. Navega al directorio del proyecto:
